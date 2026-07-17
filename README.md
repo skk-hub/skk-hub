@@ -4,8 +4,8 @@ I design, ship and operate agent systems and automation on my own infrastructure
 a self-hosted fleet (Proxmox, Docker, Tailscale) running an always-on agent
 orchestrator, an AI-governed knowledge vault, and a set of production tools I use
 daily. Everything is built pair-programming with **Claude Code**: architecture,
-priorities and verification are mine; a large share of the implementation is
-AI-generated and human-reviewed before it ships. I keep the receipts for both
+priorities and verification are mine; the implementation is AI-generated and
+verified against real behavior before it ships. I keep the receipts for both
 halves of that claim.
 
 ## Public work
